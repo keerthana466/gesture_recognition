@@ -1,2 +1,1 @@
-# gesture_recognition
-an application for women safety by using gestures
+﻿# Desktop_application_women_safety
